@@ -1,0 +1,28 @@
+_repo: A-Treatise-on-the-Art-of-Dancing_24643
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gallini, Giovanni-Andrea
+    birthdate: 1728
+    deathdate: 1805
+    gutenberg_agent_id: '26641'
+    url: http://www.gutenberg.org/2009/agents/26641
+description: ''
+gutenberg_issued: '2008-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24643'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dance -- History -- Early works to 1800'
+- !lcc 'GV'
+- !lcsh 'Dance -- Early works to 1800'
+- !lcsh 'Theater -- History'
+title: A Treatise on the Art of Dancing
+url: http://www.gutenberg.org/ebooks/24643
