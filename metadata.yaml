@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26641'
     url: http://www.gutenberg.org/2009/agents/26641
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24643#A-Treatise-on-the-Art-of-Dancing
 gutenberg_issued: '2008-02-19'
 gutenberg_type: Text
 identifiers:
